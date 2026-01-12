@@ -158,12 +158,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "OneNote/计算机图形学/半透明案例/半透明渲染.md",
-                "bFile": "OneNote/计算机图形学/半透明案例/半透明渲染.md",
+                "aFile": "UE/Controller.md",
+                "bFile": "UE/Controller.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 半透明渲染  (Working Tree)"
+              "title": "Diff: Controller  (Working Tree)"
             }
           }
         ],
@@ -345,10 +345,14 @@
   },
   "active": "99d78b058a8d83fa",
   "lastOpenFiles": [
+    "UE/Controller.md",
+    "maya v0.6.md",
+    "maya v0.2（单文件版本）.md",
+    "未命名.md",
+    "提示词.md",
     "编译/编译与解释代码.md",
     "obsidian.md",
     "26-01-12/豆包流程图.md",
-    "提示词.md",
     "OneNote/计算机图形学/Shader/概念.md",
     "OneNote/计算机图形学/Shader/文章.md",
     "OneNote/计算机图形学/Shader/变体.md",
@@ -379,10 +383,6 @@
     "OneNote/计算机图形学/光照模型/Half-Lambert.md",
     "OneNote/计算机图形学/光照模型/Lambert.md",
     "OneNote/计算机图形学/光照模型",
-    "OneNote/计算机图形学/全局光照/问题汇总.md",
-    "OneNote/计算机图形学/全局光照/SSR.md",
-    "OneNote/计算机图形学/全局光照/实时GI方案.md",
-    "OneNote/计算机图形学/全局光照/预计估时.md",
     "OneNote/计算机图形学/全局光照",
     "OneNote/计算机图形学/函数解析",
     "OneNote/计算机图形学/半透明案例",
