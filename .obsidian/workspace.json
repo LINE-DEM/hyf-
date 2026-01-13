@@ -337,7 +337,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 870.5
+    "width": 609.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -355,7 +355,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "966e062321d0d604",
+  "active": "d5f84d5393c4ae30",
   "lastOpenFiles": [
     "UE/Controller.md",
     "maya v0.6.md",
