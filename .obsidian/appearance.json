@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "theme": "moonstone"
+}

@@ -1,2 +1,0 @@
-[https://www.bilibili.com/video/BV1aeLqzUE6L/?spm_id_from=333.337.search-card.all.click&vd_source=7556e8b0664287072ced69c095b64227](https://www.bilibili.com/video/BV1aeLqzUE6L/?spm_id_from=333.337.search-card.all.click&vd_source=7556e8b0664287072ced69c095b64227)  
-10分钟讲清楚 Prompt, Agent, MCP 是什么

@@ -5,5 +5,9 @@
   "templater-obsidian",
   "obsidian-git",
   "terminal",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
+  "obsidian-hover-editor",
+  "mermaid-tools"
 ]

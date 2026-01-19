@@ -13,7 +13,3 @@ void month() const { m_month++; } 错误
 **修饰对象：**  
 比如func（const Data& data）{data.month();}  
 data也只能访问自己的const方法
-
-1.徐家汇公园 大烟囱 空中观景桥  
-2.百代小楼  
-3.faust浮士德咖啡
