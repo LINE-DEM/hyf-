@@ -4,165 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c6082f34cb144c82",
-        "type": "split",
+        "id": "4fe05c4a811fe1c0",
+        "type": "tabs",
         "children": [
           {
-            "id": "4b06e433e2da4bbd",
-            "type": "tabs",
-            "dimension": 29.32723709993469,
-            "children": [
-              {
-                "id": "b3db61e2171a60cd",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "CLAUDE中文.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "CLAUDE中文 的大纲"
-                }
-              }
-            ]
+            "id": "1189203cb43acf8f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日暂存（大模型不要读取）/26-01-15/流程搭建！！.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "流程搭建！！"
+            }
           },
           {
-            "id": "4fe05c4a811fe1c0",
-            "type": "tabs",
-            "dimension": 70.67276290006531,
-            "children": [
-              {
-                "id": "1189203cb43acf8f",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "每日暂存（大模型不要读取）/26-01-15/流程搭建！！.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "流程搭建！！"
-                }
+            "id": "52d17a1f94250b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术文档/PowerShell学习路径.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "07bce232ed01af94",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "每日暂存（大模型不要读取）/26-01-19/视频整理.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "视频整理"
-                }
-              },
-              {
-                "id": "16f5a3ef3d0266c1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "每日暂存（大模型不要读取）/26-01-19/后续查看.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "后续查看"
-                }
-              },
-              {
-                "id": "5380d9ff6fac21c9",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新标签页"
-                }
-              },
-              {
-                "id": "3f0b590cb119bcd4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "每日暂存（大模型不要读取）/VAD调研/流程图.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "流程图"
-                }
-              },
-              {
-                "id": "51c1385ba8183674",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "工具/Claude/Todo.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Todo"
-                }
-              },
-              {
-                "id": "e1c6f72cee82dabe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "每日暂存（大模型不要读取）/26-01-16/未命名.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "未命名"
-                }
-              },
-              {
-                "id": "303bf65dd8c4abd1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "每日暂存（大模型不要读取）/VAD调研/1.VAD-ASR.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1.VAD-ASR"
-                }
-              },
-              {
-                "id": "c9b8712e059e788a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CLAUDE中文.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "CLAUDE中文"
-                }
-              }
-            ],
-            "currentTab": 8
+              "icon": "lucide-file",
+              "title": "PowerShell学习路径"
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 577.5
   },
   "right": {
     "id": "cdb68820c2ef848f",
@@ -324,52 +200,13 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
-          },
-          {
-            "id": "a0a8c010346f4444",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "C:\\1.HYFStudy\\OB\\C++\\c++",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "终端：选择 C:\\Windows\\System32\\conhost.exe"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 561.5
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,46 +225,46 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c9b8712e059e788a",
+  "active": "52d17a1f94250b4b",
   "lastOpenFiles": [
-    "学习路径.md",
-    "提示词.md",
-    "Git提交方案.md",
+    "技术文档/Codex的Hook是什么与如何设置.md",
+    "技术文档/PowerShell学习路径.md",
     "每日暂存（大模型不要读取）/26-01-15/todo.md",
-    "每日暂存（大模型不要读取）/26-01-19/视频整理.md",
-    "每日暂存（大模型不要读取）/26-01-19/后续查看.md",
-    "每日暂存（大模型不要读取）/VAD调研/流程图.md",
-    "每日暂存（大模型不要读取）/VAD调研/Drawing 2026-01-19 14.53.33.excalidraw.md",
-    "每日暂存（大模型不要读取）/VAD调研/1.VAD-ASR.md",
-    "每日暂存（大模型不要读取）/VAD调研/未命名 1.md",
-    "每日暂存（大模型不要读取）/VAD调研/VAD第一次报错.md",
-    "设计模式/单例+上帝类.md",
-    "新建文本文档",
-    "新建文本文档.txt",
     "每日暂存（大模型不要读取）/26-01-15/流程搭建！！.md",
+    "待整理/AI对话/2026-01-22/codex_2026-01-22_103414_019be38d-691d-7b82-8601-307e1ceef5bb.md",
+    "工具/AI提示词-知识体系.md",
+    "工具/obsidian.md",
     "工具/Git.md",
-    "CLAUDE中文.md",
-    "CLAUDE.md",
-    "工具/Claude/Todo.md",
-    "工具/Claude/Claude_Code使用理由_针对你的场景.md",
-    "工具/Claude/Claude收费机制完全指南.md",
-    "工具/Claude/常用命令.md",
-    "工具/Claude/MCP.md",
-    "工具/Claude/Skill/Cowork.md",
-    "工具/Claude/Skill/Skill快速入门.md",
-    "工具/Claude/Skill/Obsidian笔记整理Skill.md",
-    "工具/Claude/Skill/Skill.md",
-    "OneNote/计算机图形学/半透明案例/半透明渲染.md",
+    "工具/codex-hook/Codex 对话自动保存.md",
+    "工具/Claude/VAD模块引发的思考.md",
+    "待整理/AI对话/2026-01-22/codex_2026-01-22_094815_019be363-4f3b-7443-b6ac-b160c772b566.md",
+    "待整理/AI对话/2026-01-22/codex_2026-01-22_101609_019be363-4f3b-7443-b6ac-b160c772b566.md",
+    "待整理/AI对话/2026-01-22/codex_2026-01-22_094534_019be360-da0a-77e1-b2e9-65a6a3ba71a0.md",
+    "待整理/AI对话/2026-01-21/codex_2026-01-21_170036_019bdfc8-c7ba-70c1-be83-0afdc45601f5.md",
+    "待整理/AI对话/codex_2026-01-21_154908_019bdf6f-d29e-7a00-9dff-246b6f46db74.md",
+    "待整理/AI对话/_encoding_test2.md",
+    "待整理/AI对话/_encoding_test.md",
+    "--no-log/2026-01-21/codex_2026-01-21_155110_019bdf7b-683a-7b31-90e7-36d72f83aeed.md",
+    "--help/2026-01-21/codex_2026-01-21_162137_019bdf91-ec69-7952-9db9-0fcac5d3f380.md",
+    "编译/编译与解释代码.md",
+    "工具/AI工具箱/Codex 对话自动保存（提取 user_message 与 agent_message）.md",
+    "待整理/AI对话/2026-01-22/codex_live_2026-01-22_103414.md",
+    "tmp/codex-hook-tail-direct2/2026-01-22/codex_2026-01-22_102406_019be363-4f3b-7443-b6ac-b160c772b566.md",
+    "tmp/codex-hook-tail-direct2/2026-01-22/codex_live_2026-01-22_102406.md",
+    "tmp/codex-hook-tail-direct2/2026-01-22",
+    "tmp/codex-hook-tail-direct2",
+    "tmp/codex-hook-tail-direct/2026-01-22/codex_2026-01-22_102248_019be363-4f3b-7443-b6ac-b160c772b566.md",
+    "tmp/codex-hook-tail-direct/2026-01-22/codex_live_2026-01-22_102248.md",
+    "tmp/codex-hook-tail-direct/2026-01-22",
+    "tmp/codex-hook-tail-direct",
+    "tmp/codex-hook-tail-test3/2026-01-22",
+    "tmp/codex-hook-tail-test3",
+    "tmp/codex-hook-tail-test2/2026-01-22",
+    "tmp/codex-hook-tail-test2",
+    "tmp/codex-hook-tail-test/2026-01-22",
+    "tmp/codex-hook-tail-test",
     "pic/Pasted image 20260119135535.png",
     "pic/Pasted image 20260119135459.png",
-    "每日暂存（大模型不要读取）/VAD调研",
-    "每日暂存（大模型不要读取）/26-01-19",
-    "每日暂存（大模型不要读取）/26-01-12/未命名",
-    "每日暂存（大模型不要读取）/26-01-16",
-    "Book",
-    "每日暂存（大模型不要读取）",
-    "未命名.base",
-    "未命名 1.base",
     "pic/Pasted image 20260115133740.png",
     "pic/Pasted image 20260113102107.png",
     "pic/Pasted image 20260113104911.png",

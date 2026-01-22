@@ -1,12 +1,21 @@
 ---
 creation_date: 2026-01-15 14:00
-type: #Type/Concept
-status: #Status/Active
-tags: [Claude_Code, Agent_Skill, Automation, Workflow]
-aliases: [技能, 自动化技能]
-tech_stack: #Tech/Claude_Code
+type:
+status:
+tags:
+  - Claude_Code
+  - Agent_Skill
+  - Automation
+  - Workflow
+aliases:
+  - 技能
+  - 自动化技能
+tech_stack:
 complexity: ⭐⭐⭐⭐
-related_modules: [MCP, CLAUDE.md, Cowork]
+related_modules:
+  - MCP
+  - CLAUDE.md
+  - Cowork
 ---
 
 # Claude Code Agent Skill 完全指南
